@@ -5,3 +5,6 @@ This Tool is one of the Hacking Tool.
 
 # Features
 If you are connect any network.Hosting connection is register your MAC ID.If Hacker hacking a system in connected one connection.It is chance easily Hack our system.Because ramdomly change the our like ID.
+
+# Tested
+("Tested kali Linux").But support all types of Linux
